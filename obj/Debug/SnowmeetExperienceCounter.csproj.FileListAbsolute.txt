@@ -1,0 +1,10 @@
+C:\Users\cangj\source\repos\SnowmeetExperienceCounter\bin\Debug\SnowmeetExperienceCounter.exe.config
+C:\Users\cangj\source\repos\SnowmeetExperienceCounter\bin\Debug\SnowmeetExperienceCounter.exe
+C:\Users\cangj\source\repos\SnowmeetExperienceCounter\bin\Debug\SnowmeetExperienceCounter.pdb
+C:\Users\cangj\source\repos\SnowmeetExperienceCounter\obj\Debug\SnowmeetExperienceCounter.csproj.AssemblyReference.cache
+C:\Users\cangj\source\repos\SnowmeetExperienceCounter\obj\Debug\SnowmeetExperienceCounter.Form1.resources
+C:\Users\cangj\source\repos\SnowmeetExperienceCounter\obj\Debug\SnowmeetExperienceCounter.Properties.Resources.resources
+C:\Users\cangj\source\repos\SnowmeetExperienceCounter\obj\Debug\SnowmeetExperienceCounter.csproj.GenerateResource.cache
+C:\Users\cangj\source\repos\SnowmeetExperienceCounter\obj\Debug\SnowmeetExperienceCounter.csproj.CoreCompileInputs.cache
+C:\Users\cangj\source\repos\SnowmeetExperienceCounter\obj\Debug\SnowmeetExperienceCounter.exe
+C:\Users\cangj\source\repos\SnowmeetExperienceCounter\obj\Debug\SnowmeetExperienceCounter.pdb
