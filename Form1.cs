@@ -35,8 +35,6 @@ namespace SnowmeetExperienceCounter
             ListViewItem item = new ListViewItem("test");
             item.ImageIndex = 0;
             listView1.Items.Add(item);
-            
-            
         }
 
         private void statusStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
